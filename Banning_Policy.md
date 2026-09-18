@@ -132,6 +132,7 @@ Rule violations not in the offense table can still have bans applied, but have n
 | Griefing | Abandoning a role | W - 5d RB | 3d - 7d RB | Indef RB | |
 | Griefing | Antag rolling | 12hr - 3d GB | 3d - 7d GB | **7d** -GB | |
 | Griefing | Damage/disruption to arrivals/arrivals shuttle | 12hr - 3d GB | 3d - 7d GB | 7d GB | |
+| Griefing | Eorg Perping | **W** - 3d GB | 3d - 7d GB | 7d GB | |
 | Escalation | Over escalation | W | 12hr GB | 3d GB | **7d** GB |
 | Escalation | RDM | 12hr GB | 3d GB | **7d** GB | |
 | Escalation | Over escalation or RDM that is a secondary result of station sabotage | 12hr GB | 3d GB | **7d** GB | |
